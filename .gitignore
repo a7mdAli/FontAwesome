@@ -1,0 +1,28 @@
+# Xcode
+build/
+xcuserdata/
+DerivedData/
+*.pbxuser
+*.xcworkspace
+*.xcodeproj
+*.xccheckout
+*.swiftpm
+.netrc
+
+# SPM
+Packages/
+.build/
+
+# macOS
+*.DS_Store
+
+# Vim
+*.swp
+*.swo
+
+# Other
+.idea/
+*.log
+*.lock
+Pods/
+Carthage/
