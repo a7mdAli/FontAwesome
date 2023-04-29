@@ -1,6 +1,6 @@
 # FontAwesome
 
-A Swift package for using [Font Awesome](https://fontawesome.com/) icons in your iOS, macOS, watchOS, and tvOS apps.
+A Swift package for using [Font Awesome](https://fontawesome.com/) icons in your iOS apps.
 
 This package is a port of the [FontAwesome.swift](https://github.com/thii/FontAwesome.swift) library by [Thi Doãn](https://github.com/thii), adapted to work with the Swift Package Manager.
 
